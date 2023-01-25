@@ -1,4 +1,3 @@
-# x265vs-Batch-Encode-GUI
 自用粗參批量壓制封裝GUI
 
 它可以生成批量壓制及封裝.bat
